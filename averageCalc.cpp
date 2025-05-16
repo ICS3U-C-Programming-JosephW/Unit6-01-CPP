@@ -15,6 +15,8 @@ for random generators. */
 
 // Runs the main function.
 int main() {
+    // Display an empty space to format text.
+    std::cout << "\n";
     // Set the constant maximum array size to 10.
     const int MAX_ARRAY_SIZE = 10;
     // Set the minimum random number to 0.
